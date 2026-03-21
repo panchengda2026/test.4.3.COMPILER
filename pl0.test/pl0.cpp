@@ -176,7 +176,6 @@ int inset(int e, bool* s)
 	return s[e];
 }
 int addset(bool* sr, bool* s1, bool* s2, int n)
-
 {
 	int i;
 	for (i = 0; i < n; i++)
@@ -399,7 +398,7 @@ int gen(enum fct x, int y, int z)
 		return -1;
 	}
 	
-		code[cx].f = x;
+	code[cx].f = x;
 	code[cx].l = y;
 	code[cx].a = z;
 	cx++;
@@ -662,8 +661,7 @@ int constdeclaration(int* ptx, int lev, int* pdx)
 		{
 			if (sym == becomes)
 			{
-				
-					error(1); /*把=写出成了：=*/
+				error(1); /*把=写出成了：=*/
 			}
 			getsymdo;
 			if (sym == number)

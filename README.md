@@ -29,16 +29,20 @@
 <factor>      ::= <ident> | <number> | ( <expression> )
 <condition>   ::= <expression> ( = | # | < | <= | > | >= ) <expression>
 
+7. https://github.com/lotabout/write-a-C-interpreter
+8. https://github.com/qing-2/PL0-Compiler
+9. https://www.cnblogs.com/qrxqrx/articles/9084845.html
+10. https://www.cnblogs.com/hesse-summer/p/12903005.html
 
-6. 编写连接器
+
+11. 编写连接器
     *.o文件中的重定向信息，如何被重组的。
-   
 
-8. https://github.com/lotabout/write-a-C-interpreter
-9. https://github.com/qing-2/PL0-Compiler
-10. 证明: PL/0语言属于LL(1)文法
-11. https://www.cnblogs.com/qrxqrx/articles/9084845.html
-12. https://www.cnblogs.com/hesse-summer/p/12903005.html
-13. todo
+12. procedure
+    为什么需要 begin end 
+    参考书本的EBNF看起来没有这个现在，但是实测test1.pl0去掉后验证失败。核对。
+13. 证明: PL/0语言属于LL(1)文法
+
+14. todo
    写一个自举的代码。
 

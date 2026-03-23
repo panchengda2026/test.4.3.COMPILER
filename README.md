@@ -12,6 +12,8 @@
 <img width="1124" height="1080" alt="image" src="https://github.com/user-attachments/assets/810cf838-df99-4ac5-81bf-55dbda2ea34e" />
 <img width="785" height="690" alt="image" src="https://github.com/user-attachments/assets/a594eebc-3800-4cc5-aeff-fab969150e75" />
 
+<img width="887" height="503" alt="image" src="https://github.com/user-attachments/assets/e58c1811-b999-4bd0-ae24-b384950b5bc9" />
+
 6. 编写连接器
     *.o文件中的重定向信息，如何被重组的。
 

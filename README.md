@@ -37,6 +37,7 @@
 8. https://github.com/lotabout/write-a-C-interpreter
 9. https://github.com/qing-2/PL0-Compiler
 10. 证明: PL/0语言属于LL(1)文法
-11. todo
+11. https://www.cnblogs.com/qrxqrx/articles/9084845.html
+12. todo
    写一个自举的代码。
 
